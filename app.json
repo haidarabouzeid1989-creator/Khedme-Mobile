@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Khedmeبال",
+    "slug": "khedmebal",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "android": {
+      "package": "com.khedmebal.app",
+      "versionCode": 1
+    }
+  }
+}
